@@ -12,7 +12,8 @@
   <br>
   <div align="center">
   <a href="https://github.com/sianguii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sianguii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sianguii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sianguii&layout=compact&langs_count=7&theme=dracula"/>
     </div>
     
   <div style="display: inline_block"><br>
@@ -25,11 +26,12 @@
   <img align="center" alt="sia-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  
 </div>
+    ##
  <br>
  <br>
     
   <p>  
-    <div  > 
+  <div> 
   <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/195/195138.png" target="_blank" height="70px" widht="70px"> <br>MEU LINKEDIN </a>
  </a>
   </div>
