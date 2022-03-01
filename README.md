@@ -3,10 +3,10 @@
 ### <H2> Sobre mim: <H2>
 
   
-- 👩 Meu nome é Siangui;
-- 🧑‍💻 Atualmente estou estudando Desenvolvimento de Sistemas;
-- 💻 Nao estou trabalhando no momento, mas procuro uma vaga de estagio para aprimorar meus conhecimentos em Programação; 
-- ✈️ Um dos meus maiores sonhos é viajar o mundo; 
+- 👩 Meu nome é Siangui
+- 🧑‍💻 Atualmente estou estudando Desenvolvimento de Sistemas
+- 💻 Nao estou trabalhando no momento, mas procuro uma vaga de estagio para aprimorar meus conhecimentos em Programação
+- ✈️ Um dos meus maiores sonhos é viajar o mundo
 
   <br>
   <br>
