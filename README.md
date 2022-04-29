@@ -25,14 +25,12 @@
   <img align="center" alt="sia-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="sia-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  
-</div>
-    ##
  <br>
  <br>
     
   <p>  
   <div> 
-  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/195/195138.png" target="_blank" height="70px" widht="70px"> <br>MEU LINKEDIN </a>
+  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank"> <img src="https://th.bing.com/th/id/R.67905c5eee7c600d2faa0676a9451bb1?rik=PRgkATJTRET5YQ&pid=ImgRaw&r=0" target="_blank" height="70px" widht="70px"> <br> LINKEDIN </a>
  </a>
   </div>
  
