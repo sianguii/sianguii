@@ -4,7 +4,7 @@
 
   
 - 👩 Meu nome é Siangui
-- 🧑‍💻 Atualmente estou estudando Desenvolvimento de Sistemas
+- 🧑‍💻 Me forme em técnica de Desenvolvimento de Sistemas em 2022
 - 💻 Nao estou trabalhando no momento, mas procuro uma vaga de estagio para aprimorar meus conhecimentos em Programação
 - ✈️ Um dos meus maiores sonhos é viajar o mundo
 
