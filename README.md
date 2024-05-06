@@ -5,7 +5,7 @@
   
 - 👩 Meu nome é Siangui
 - 🧑‍💻 Formada em Técnico de Desenvolvimento de Sistemas em 2022 pela instituição ETEC
-- 💻 Nao estou trabalhando no momento, mas procuro uma vaga de estagio para aprimorar meus conhecimentos em Programação
+- 💻 Não estou trabalhando na área no momento, mas procuro uma vaga de estagio para aprimorar meus conhecimentos em Programação
 - ✈️ Um dos meus maiores sonhos é viajar o mundo
 
   <br>
