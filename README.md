@@ -56,11 +56,11 @@ Tenho interesse em **Desenvolvimento de Software**, **Segurança da Informação
 
 ## 📌 Projetos em destaque
 
-> _Adicione aqui 2 a 4 projetos fixados, com uma linha descrevendo o problema que resolvem e as tecnologias usadas._
+<!--! _Adicione aqui 2 a 4 projetos fixados, com uma linha descrevendo o problema que resolvem e as tecnologias usadas._
 
 - **[Nome do projeto](#)** — breve descrição do que faz e por quê. `Tecnologias: ...`
 - **[Nome do projeto](#)** — breve descrição do que faz e por quê. `Tecnologias: ...`
-
+-->
 <br>
 
 ## 📫 Contato
