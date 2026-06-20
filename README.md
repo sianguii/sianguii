@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=200&section=header&text=Siangui%20de%20Souza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=T%C3%A9cnica%20em%20Desenvolvimento%20de%20Sistemas%20%7C%20Em%20busca%20de%20est%C3%A1gio%20em%20TI&descSize=16&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=150&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1500&color=2DD4BF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Siangui+%F0%9F%91%8B;T%C3%A9cnica+em+Desenvolvimento+de+Sistemas;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Em+busca+de+est%C3%A1gio+em+TI+%F0%9F%9A%80"/>
 
 </div>
 
@@ -56,11 +58,11 @@ Tenho interesse em **Desenvolvimento de Software**, **Segurança da Informação
 
 ## 📌 Projetos em destaque
 
-<!--! _Adicione aqui 2 a 4 projetos fixados, com uma linha descrevendo o problema que resolvem e as tecnologias usadas._
+> _Adicione aqui 2 a 4 projetos fixados, com uma linha descrevendo o problema que resolvem e as tecnologias usadas._
 
 - **[Nome do projeto](#)** — breve descrição do que faz e por quê. `Tecnologias: ...`
 - **[Nome do projeto](#)** — breve descrição do que faz e por quê. `Tecnologias: ...`
--->
+
 <br>
 
 ## 📫 Contato
