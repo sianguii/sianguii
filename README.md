@@ -42,6 +42,7 @@ Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, apr
 <img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img align="center" alt="VSCode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="SQL Server" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
 </div>
 
