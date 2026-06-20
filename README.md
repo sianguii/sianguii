@@ -64,3 +64,6 @@ Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, apr
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
   </a>
 </div>
+
+
+<img width="400" height="200" alt="200" src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" />
