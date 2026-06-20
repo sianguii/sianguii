@@ -1,36 +1,66 @@
-### <H1> <font color="red" face="sans-serif"> Olá, Seja Bem vindo ao meu Perfi✨ </font> <H1>
-  
-### <H2> Sobre mim: <H2>
+# 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-  
-- 👩 Meu nome é Siangui
-- 🧑‍💻 Formada em Técnico de Desenvolvimento de Sistemas em 2022 pela instituição ETEC
-- 💻 Não estou trabalhando na área no momento, mas procuro uma vaga de estagio para aprimorar meus conhecimentos em Programação
-- ✈️ Um dos meus maiores sonhos é viajar o mundo
+## 🚀 Sobre mim
 
-  <br>
-  <br>
-  <div align="center">
+Meu nome é **Siangui Souza** e sou estudante de **Sistemas de Informação**, formada em **Técnico em Desenvolvimento de Sistemas pela ETEC**.
+
+Tenho interesse em áreas como **Desenvolvimento de Software**, **Segurança da Informação**, **Banco de Dados** e **Tecnologias Web**. Atualmente estou em busca de uma oportunidade de **estágio na área de TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
+
+Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, aprender novas ferramentas e buscar soluções que tornem processos mais eficientes.
+
+### 🎯 Objetivos
+
+- Ingressar na área de Tecnologia da Informação
+- Aprimorar conhecimentos em Desenvolvimento de Software e Segurança da Informação
+- Construir projetos que gerem impacto e agreguem valor
+- Evoluir constantemente como profissional de tecnologia
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img align="center" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="TypeScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Angular" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="HTML5" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="VSCode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
   <a href="https://github.com/sianguii">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sianguii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sianguii&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
-    
-  <div style="display: inline_block"><br>
-  <img align="center" alt="sia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="sia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="sia-angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="sia-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="sia-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="sia-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="sia-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- 
- <br>
- <br>
-    
-  <p>  
-  <div> 
-  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank">  <img align="center" alt="sia-Js" height="50" width="50" alt="linkedin-logo-linkedin-icon-transparent-free-png" src="https://github.com/user-attachments/assets/c016d622-9bc3-41c2-bac1-1eb519a38d92" /> </a>
- </a>
-  </div>
- 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sianguii&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sianguii&layout=compact&langs_count=7&theme=midnight-purple"/>
+  </a>
+</div>
+
+---
+
+### 🌎 Curiosidades
+
+- ✈️ Sonho em viajar o mundo
+- 📚 Estou sempre buscando aprender algo novo
+- 💡 Gosto de encontrar maneiras de melhorar processos e resolver problemas
+- 🔐 Tenho interesse em Segurança da Informação e tecnologia em geral
+
+---
+
+### 📫 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
+  </a>
+</div>
