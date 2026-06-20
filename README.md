@@ -75,4 +75,24 @@ Tenho interesse em **Desenvolvimento de Software**, **Segurança da Informação
 
 <br>
 
+<details>
+<summary>✨ Um pouco mais sobre mim</summary>
+<br>
+
+- ✈️ Sonho em viajar o mundo
+- 📚 Estou sempre buscando aprender algo novo
+- 💡 Gosto de encontrar maneiras de melhorar processos e resolver problemas
+- 🔐 Tenho interesse em Segurança da Informação e tecnologia em geral
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" width="350px" alt="Hermione Granger">
+  <img src="https://github.com/user-attachments/assets/f08ead35-2956-4e5f-a269-017b86927abc" width="350px" alt="Tecnologia">
+</div>
+
+</details>
+
+<br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F766E&height=100&section=footer"/>
