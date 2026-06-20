@@ -66,4 +66,6 @@ Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, apr
 </div>
 
 
-<img width="400" height="200" alt="200" src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" width="600px" alt="GIF de apresentação">
+</div>
