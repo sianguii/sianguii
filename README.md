@@ -54,11 +54,11 @@ Gosto de entender como os sistemas funcionam por trás dos panos, aprender novas
 
 ## 📌 Projetos em destaque
 
-> _Adicione aqui 2 a 4 projetos fixados, com uma linha descrevendo o problema que resolvem e as tecnologias usadas. Essa é a seção que mais pesa para quem avalia o perfil — recomendo preencher antes de divulgar o link._
+<!-- _Adicione aqui 2 a 4 projetos fixados, com uma linha descrevendo o problema que resolvem e as tecnologias usadas. Essa é a seção que mais pesa para quem avalia o perfil — recomendo preencher antes de divulgar o link._
 
 - **[Nome do projeto](#)** — breve descrição do que faz e por quê. `Tecnologias: ...`
 - **[Nome do projeto](#)** — breve descrição do que faz e por quê. `Tecnologias: ...`
-
+-->
 ---
 
 ## 📊 Estatísticas do GitHub
