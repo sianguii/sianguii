@@ -30,7 +30,7 @@
     
   <p>  
   <div> 
-  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank"> LINKEDIN </a>
+  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank"> <img width="980" height="980" alt="linkedin-logo-linkedin-icon-transparent-free-png" src="https://github.com/user-attachments/assets/c016d622-9bc3-41c2-bac1-1eb519a38d92" /> LINKEDIN </a>
  </a>
   </div>
  
