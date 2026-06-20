@@ -30,7 +30,7 @@
     
   <p>  
   <div> 
-  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank"> <img src="https://th.bing.com/th/id/R.67905c5eee7c600d2faa0676a9451bb1?rik=PRgkATJTRET5YQ&pid=ImgRaw&r=0" target="_blank" height="70px" widht="70px"> <br> LINKEDIN </a>
+  <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank"> LINKEDIN </a>
  </a>
   </div>
  
