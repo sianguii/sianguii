@@ -1,5 +1,15 @@
 # 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" width="450px" alt="Hermione Granger">
+</div>
+
+<h3 align="center">
+  ✨ Curiosa por natureza, estudante por escolha e apaixonada por tecnologia 💜
+</h3>
+
+---
+
 ## 🚀 Sobre mim
 
 Meu nome é **Siangui Souza** e sou estudante de **Sistemas de Informação**, formada em **Técnico em Desenvolvimento de Sistemas pela ETEC**.
@@ -54,6 +64,7 @@ Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, apr
 - 📚 Estou sempre buscando aprender algo novo
 - 💡 Gosto de encontrar maneiras de melhorar processos e resolver problemas
 - 🔐 Tenho interesse em Segurança da Informação e tecnologia em geral
+- ⚡ Adoro desafios e aprender coisas novas
 
 ---
 
@@ -63,9 +74,4 @@ Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, apr
   <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
   </a>
-</div>
-
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" width="600px" alt="GIF de apresentação">
 </div>
