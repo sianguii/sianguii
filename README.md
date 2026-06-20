@@ -1,14 +1,17 @@
 # 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" width="450px" alt="Hermione Granger"> <img width="450px" height="340px" alt="68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6564704173624361636f727371773d3d2d36342e313630623734356330333938383538353138313434373539393336342e" src="https://github.com/user-attachments/assets/f08ead35-2956-4e5f-a269-017b86927abc" />
-
-
+  <img src="https://github.com/user-attachments/assets/ea0efbfa-f9af-4b79-a160-a7b12dfaf8e0" width="400px" alt="Hermione Granger">
+  <img src="https://github.com/user-attachments/assets/f08ead35-2956-4e5f-a269-017b86927abc" width="400px" alt="Tecnologia">
 </div>
 
 <h3 align="center">
-  ✨ Curiosa por natureza, estudante por escolha e apaixonada por tecnologia 💜
+✨ Curiosa por natureza • 💻 Apaixonada por tecnologia • 🚀 Sempre aprendendo
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sianguii&label=Visualizações&color=8A2BE2&style=flat" alt="Contador de visualizações" />
+</p>
 
 ---
 
@@ -16,9 +19,13 @@
 
 Meu nome é **Siangui Souza** e sou estudante de **Sistemas de Informação**, formada em **Técnico em Desenvolvimento de Sistemas pela ETEC**.
 
-Tenho interesse em áreas como **Desenvolvimento de Software**, **Segurança da Informação**, **Banco de Dados** e **Tecnologias Web**. Atualmente estou em busca de uma oportunidade de **estágio na área de TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
+Tenho interesse em áreas como **Desenvolvimento de Software**, **Segurança da Informação**, **Banco de Dados** e **Tecnologias Web**.
+
+Atualmente estou em busca de uma oportunidade de **estágio na área de TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
 
 Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, aprender novas ferramentas e buscar soluções que tornem processos mais eficientes.
+
+---
 
 ### 🎯 Objetivos
 
@@ -41,10 +48,10 @@ Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, apr
 <img align="center" alt="CSS3" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="SQL Server" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img align="center" alt="VSCode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="SQL" height="45" width="55" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
+
 </div>
 
 ---
@@ -76,4 +83,12 @@ Sou apaixonada por tecnologia, gosto de entender como os sistemas funcionam, apr
   <a href="https://www.linkedin.com/in/siangui-de-souza-aa3b93213" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  
+💜 Obrigada pela visita! 💜
+
 </div>
